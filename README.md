@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/✅_Available_Immediately-38BDAE?style=flat-square"/>
 <img src="https://img.shields.io/badge/🌍_Open_to_Relocate-BF91F3?style=flat-square"/>
 
-
+<br>
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/$1M%2B-Ad%20Budget%20Managed-0d1117?style=for-the-badge&labelColor=70A5FD&color=0d1117"/></td>
