@@ -8,13 +8,10 @@
 <a href="https://www.premkumarragav.in"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:premkumarragav@gmail.com"><img src="https://img.shields.io/badge/Email_Me-BF91F3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br><br><br>
-
 <img src="https://img.shields.io/badge/📍_Ras_Al_Khaimah,_UAE-0d1117?style=flat-square&labelColor=0d1117&color=161b22"/>
 <img src="https://img.shields.io/badge/✅_Available_Immediately-38BDAE?style=flat-square"/>
 <img src="https://img.shields.io/badge/🌍_Open_to_Relocate-BF91F3?style=flat-square"/>
 
-<br><br>
 
 <table>
 <tr>
