@@ -34,15 +34,11 @@
     <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="600" y="98" font-family="Verdana, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">
+  <text x="600" y="105" font-family="Verdana, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">
     Premkumar Ragav
   </text>
 
-  <text x="600" y="134" font-family="Verdana, Arial, sans-serif" font-size="17" fill="#c9d1d9" text-anchor="middle">
+  <text x="600" y="145" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#c9d1d9" text-anchor="middle">
     Senior Performance Marketing Specialist &amp; Team Lead
-  </text>
-
-  <text x="600" y="164" font-family="Verdana, Arial, sans-serif" font-size="14" fill="#70A5FD" text-anchor="middle">
-    $1M+ Ad Budget Managed  •  212,000+ Conversions  •  7.5X Peak ROAS  •  5+ Countries
   </text>
 </svg>
