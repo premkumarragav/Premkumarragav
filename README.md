@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Premkumar%20Ragav&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Performance%20Marketing%20Specialist%20%26%20Team%20Lead&descAlignY=60&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=%246+Years+Scaling+Paid+Media+Across+5+Countries;%241M%2B+Ad+Spend+%7C+212%2C000%2B+Conversions+Delivered;7.5X+ROAS+%7C+55-78%25+CPL+Below+Benchmark;Bilingual+Campaigns+%7C+Google+Ads+%7C+Meta+Ads+%7C+SEO" />
+<img src="./assets/hero-banner.svg" width="100%"/>
 
 <br>
 
@@ -215,6 +213,6 @@ I'm a **performance marketer who can also build the landing page the campaign po
 
 <img src="https://komarev.com/ghpvc/?username=Premkumarragav&color=70a5fd&style=flat-square&label=Profile+Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://img.shields.io/badge/Thanks_for_visiting-70A5FD?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
