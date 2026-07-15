@@ -1,17 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Performance%20Marketing%20Specialist%20%26%20Team%20Lead&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prem%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Senior%20Performance%20Marketing%20Specialist%20%26%20Team%20Lead&descAlignY=52&descSize=18&stroke=70A5FD&strokeWidth=1" width="100%"/>
 
-<a href="https://linkedin.com/in/premkumarragav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.premkumarragav.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:premkumarragav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ras_Al_Khaimah,_UAE-0d1117?style=flat-square&logo=googlemaps&logoColor=70A5FD"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=%246+Years+Scaling+Paid+Media+Across+5+Countries;%241M%2B+Ad+Spend+%7C+212%2C000%2B+Conversions+Delivered;7.5X+ROAS+%7C+55-78%25+CPL+Below+Benchmark;Bilingual+Campaigns+%7C+Google+Ads+%7C+Meta+Ads+%7C+SEO" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=6%2B+Years+in+Performance+Marketing;%241M%2B+Ad+Spend+Managed+Across+5+Countries;212%2C000%2B+Conversions+Generated;7.5X+ROAS+%7C+55-78%25+CPL+Below+Benchmark" />
+<br>
+
+<a href="https://linkedin.com/in/premkumarragav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.premkumarragav.in"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:premkumarragav@gmail.com"><img src="https://img.shields.io/badge/Email_Me-BF91F3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📍_Ras_Al_Khaimah,_UAE-0d1117?style=flat-square&labelColor=0d1117&color=161b22"/>
+<img src="https://img.shields.io/badge/✅_Available_Immediately-38BDAE?style=flat-square"/>
+<img src="https://img.shields.io/badge/🌍_Open_to_Relocate-BF91F3?style=flat-square"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/$1M%2B-Ad%20Spend%20Managed-0d1117?style=for-the-badge&labelColor=70A5FD&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/212K%2B-Conversions-0d1117?style=for-the-badge&labelColor=BF91F3&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/7.5X-Peak%20ROAS-0d1117?style=for-the-badge&labelColor=38BDAE&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/5%2B-Countries-0d1117?style=for-the-badge&labelColor=70A5FD&color=0d1117"/></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 </div>
-
----
 
 ### 💻 about_me.js
 
@@ -48,7 +66,9 @@ I'm a **performance marketer who can also build the landing page the campaign po
 - 🛠️ Hands-on with **GA4, GTM, Looker Studio**, and custom landing page dev
 - 🏆 Awarded **"Bright Spark" — Top Performer of the Year 2024**
 
----
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ### 🧰 Tools of the Trade
 
@@ -72,7 +92,7 @@ I'm a **performance marketer who can also build the landing page the campaign po
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -87,9 +107,11 @@ I'm a **performance marketer who can also build the landing page the campaign po
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premkumarragav&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="90%"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Premkumarragav&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="90%"/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ### 💼 Work Experience
 
@@ -136,7 +158,7 @@ I'm a **performance marketer who can also build the landing page the campaign po
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ### 🚀 Featured Work
 
@@ -150,7 +172,7 @@ I'm a **performance marketer who can also build the landing page the campaign po
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ### 🏆 Achievements
 
@@ -167,7 +189,7 @@ I'm a **performance marketer who can also build the landing page the campaign po
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ### 🎓 Education
 
@@ -186,14 +208,12 @@ I'm a **performance marketer who can also build the landing page the campaign po
 ⚙️ Advanced Automation      → N8N workflows, multi-channel WhatsApp/SMS/Email sequencing
 ```
 
----
-
 <div align="center">
 
 📫 **Let's talk growth:** [premkumarragav@gmail.com](mailto:premkumarragav@gmail.com) · [LinkedIn](https://linkedin.com/in/premkumarragav) · [Portfolio](https://www.premkumarragav.in)
 
 <img src="https://komarev.com/ghpvc/?username=Premkumarragav&color=70a5fd&style=flat-square&label=Profile+Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
