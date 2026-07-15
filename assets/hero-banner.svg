@@ -1,0 +1,48 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#1a1b3a"/>
+      <stop offset="75%" stop-color="#3a2166"/>
+      <stop offset="100%" stop-color="#5b2a86"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70A5FD" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#BF91F3" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#38BDAE" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <path d="M0,190 C150,150 300,220 450,190 C600,160 750,210 900,180 C1050,155 1150,190 1200,175 L1200,220 L0,220 Z" fill="url(#waveGrad)"/>
+  <path d="M0,205 C180,175 330,215 500,195 C650,178 800,212 950,192 C1080,175 1150,200 1200,190 L1200,220 L0,220 Z" fill="#0d1117" fill-opacity="0.55"/>
+
+  <circle cx="120" cy="45" r="1.6" fill="#ffffff" opacity="0.8">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="35" r="1.4" fill="#ffffff" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="70" r="1.8" fill="#ffffff" opacity="0.7">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.8s" begin="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="90" r="1.3" fill="#ffffff" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.4s" begin="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1150" cy="120" r="1.5" fill="#ffffff" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="98" font-family="Verdana, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">
+    Premkumar Ragav
+  </text>
+
+  <text x="600" y="134" font-family="Verdana, Arial, sans-serif" font-size="17" fill="#c9d1d9" text-anchor="middle">
+    Senior Performance Marketing Specialist &amp; Team Lead
+  </text>
+
+  <text x="600" y="164" font-family="Verdana, Arial, sans-serif" font-size="14" fill="#70A5FD" text-anchor="middle">
+    $1M+ Ad Budget Managed  •  212,000+ Conversions  •  7.5X Peak ROAS  •  5+ Countries
+  </text>
+</svg>
