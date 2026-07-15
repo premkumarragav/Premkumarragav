@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prem%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Senior%20Performance%20Marketing%20Specialist%20%26%20Team%20Lead&descAlignY=52&descSize=18&stroke=70A5FD&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Premkumar%20Ragav&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Performance%20Marketing%20Specialist%20%26%20Team%20Lead&descAlignY=60&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=%246+Years+Scaling+Paid+Media+Across+5+Countries;%241M%2B+Ad+Spend+%7C+212%2C000%2B+Conversions+Delivered;7.5X+ROAS+%7C+55-78%25+CPL+Below+Benchmark;Bilingual+Campaigns+%7C+Google+Ads+%7C+Meta+Ads+%7C+SEO" />
 
@@ -20,10 +20,11 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/$1M%2B-Ad%20Spend%20Managed-0d1117?style=for-the-badge&labelColor=70A5FD&color=0d1117"/></td>
-<td align="center"><img src="https://img.shields.io/badge/212K%2B-Conversions-0d1117?style=for-the-badge&labelColor=BF91F3&color=0d1117"/></td>
-<td align="center"><img src="https://img.shields.io/badge/7.5X-Peak%20ROAS-0d1117?style=for-the-badge&labelColor=38BDAE&color=0d1117"/></td>
-<td align="center"><img src="https://img.shields.io/badge/5%2B-Countries-0d1117?style=for-the-badge&labelColor=70A5FD&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/$1M%2B-Ad%20Budget%20Managed-0d1117?style=for-the-badge&labelColor=70A5FD&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/30%2B-Projects-0d1117?style=for-the-badge&labelColor=BF91F3&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/5%2B-Country%20Markets-0d1117?style=for-the-badge&labelColor=38BDAE&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/10%2B-Industries%20Served-0d1117?style=for-the-badge&labelColor=70A5FD&color=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/6%2B%20Years-Paid%20Ads%20Experience-0d1117?style=for-the-badge&labelColor=BF91F3&color=0d1117"/></td>
 </tr>
 </table>
 
@@ -35,7 +36,7 @@
 
 ```javascript
 const prem = {
-  name: "Prem Kumar",
+  name: "Premkumar Ragav",
   title: "Senior Performance Marketing Specialist & Team Lead",
   location: "Ras Al Khaimah, UAE",
   education: "B.Tech - Information Technology, Anna University, Chennai",
